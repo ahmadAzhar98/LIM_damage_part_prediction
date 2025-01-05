@@ -1,5 +1,5 @@
 # Car Inspector
-An image processing foundation model which will detect the damage part of the car and give an estimate repair cost of that particular damaged part.
+An image processing using large image model (LIM) which will detect the damage part of the car and give an estimate repair cost of that particular damaged part.
 
 # Instructions
 1 - Go to https://makersuite.google.com/ and generate API key for gemini-flash model
